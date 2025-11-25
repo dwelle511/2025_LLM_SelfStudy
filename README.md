@@ -1,2 +1,8 @@
 # 2025_LLM_SelfStudy
-  about pytorch, tensorflow
+<hr>
+  <em>about pytorch, tensorflow</em>
+  <ol>
+    <li>[![Open In Colab](https://colab.research.google.com/drive/17sYK-9DzcsHJlONiaYdlPIxZKgprU2om?usp=sharing)]</li>
+
+    
+  </ol>
