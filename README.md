@@ -13,5 +13,10 @@
 
   7. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
-    
 
+LLm code [맨 아래 코드 참조부탁드립니다]
+>>> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+
+
+LLM text book
+[![LLMconcept](https://img.shields.io/badge/5.Repository-37352f?style=flat-square&logo=notion&logoColor=white)]()
